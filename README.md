@@ -1,2 +1,4 @@
 # git_practice
-Gitの練習
+
+Git の練習
+README を追加
